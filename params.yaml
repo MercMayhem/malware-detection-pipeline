@@ -1,0 +1,3 @@
+n_estimators : 30
+max_leaves : 50
+learning_rate : 0.5
